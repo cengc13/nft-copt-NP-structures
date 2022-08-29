@@ -1,0 +1,5850 @@
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:45 (2022-04-11T18:43:45 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a4a770280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f39c26bd5e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a2ab89b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a4a770280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f39c26bd5e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a2ab89b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a4a770280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f39c26bd5e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a2ab89b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1327.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244710
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3a4a770280>
+Calculation requested.
+Calculating forces...
+...forces calculated. 2.1 min.
+Calculation requested.
+Calculating forces...
+...forces calculated. 37.0 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.2 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.2 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.2 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.2 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.2 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.5 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.5 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.5 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.6 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.5 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.5 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.5 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           295.957    74.062   3.9% |-|
+ calculate_forces:   221.895   221.895  11.5% |----|
+Other:              1626.962  1626.962  84.6% |---------------------------------|
+---------------------------------------------
+Total:                        1922.919 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           208.329    13.649   0.7% |
+ calculate_forces:   194.679   194.679  10.2% |---|
+Other:              1701.501  1701.501  89.1% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.830 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           172.044    13.580   0.7% |
+ calculate_forces:   158.464   158.464   8.3% |--|
+Other:              1737.758  1737.758  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.803 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           172.338    13.687   0.7% |
+ calculate_forces:   158.651   158.651   8.3% |--|
+Other:              1737.435  1737.435  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.773 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           171.615    13.642   0.7% |
+ calculate_forces:   157.973   157.973   8.3% |--|
+Other:              1738.129  1738.129  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.745 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           171.893    13.489   0.7% |
+ calculate_forces:   158.404   158.404   8.3% |--|
+Other:              1737.824  1737.824  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.717 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           172.163    13.671   0.7% |
+ calculate_forces:   158.492   158.492   8.3% |--|
+Other:              1737.527  1737.527  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.690 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           172.117    13.756   0.7% |
+ calculate_forces:   158.361   158.361   8.3% |--|
+Other:              1737.546  1737.546  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.663 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           172.502    13.770   0.7% |
+ calculate_forces:   158.732   158.732   8.3% |--|
+Other:              1737.135  1737.135  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.637 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:           172.553    13.866   0.7% |
+ calculate_forces:   158.687   158.687   8.3% |--|
+Other:              1737.056  1737.056  91.0% |-----------------------------------|
+---------------------------------------------
+Total:                        1909.609 100.0%
+
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cd418a280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1c4c0d75e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cb45a3b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cd418a280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1c4c0d75e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cb45a3b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cd418a280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1c4c0d75e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cb45a3b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1325.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 124543
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f1cd418a280>
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.380     0.104   0.7% |
+ calculate_forces:     1.275     1.275   8.9% |---|
+Other:                12.938    12.938  90.4% |-----------------------------------|
+---------------------------------------------
+Total:                          14.317 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.376     0.105   0.7% |
+ calculate_forces:     1.271     1.271   8.9% |---|
+Other:                12.829    12.829  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          14.205 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.376     0.104   0.7% |
+ calculate_forces:     1.272     1.272   9.0% |---|
+Other:                12.806    12.806  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          14.182 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.374     0.106   0.7% |
+ calculate_forces:     1.268     1.268   9.0% |---|
+Other:                12.785    12.785  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          14.159 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.374     0.107   0.8% |
+ calculate_forces:     1.267     1.267   9.0% |---|
+Other:                12.764    12.764  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          14.138 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.389     0.109   0.8% |
+ calculate_forces:     1.280     1.280   9.1% |---|
+Other:                12.733    12.733  90.2% |-----------------------------------|
+---------------------------------------------
+Total:                          14.121 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.390     0.109   0.8% |
+ calculate_forces:     1.281     1.281   9.1% |---|
+Other:                12.714    12.714  90.1% |-----------------------------------|
+---------------------------------------------
+Total:                          14.105 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.398     0.108   0.8% |
+ calculate_forces:     1.290     1.290   9.2% |---|
+Other:                12.684    12.684  90.1% |-----------------------------------|
+---------------------------------------------
+Total:                          14.082 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.377     0.107   0.8% |
+ calculate_forces:     1.271     1.271   9.0% |---|
+Other:                12.684    12.684  90.2% |-----------------------------------|
+---------------------------------------------
+Total:                          14.061 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.386     0.106   0.8% |
+ calculate_forces:     1.279     1.279   9.1% |---|
+Other:                12.653    12.653  90.1% |-----------------------------------|
+---------------------------------------------
+Total:                          14.039 100.0%
+
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46c45cf280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f4618f4aee0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46803a1700>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46c45cf280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f4618f4aee0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46803a1700>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46c45cf280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f4618f4aee0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46803a1700>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:12 (2022-04-11T21:17:12 UTC)
+Architecture: x86_64
+PID: 199540
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f46c45cf280>
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.4 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 1.3 s
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.397     0.117   0.8% |
+ calculate_forces:     1.280     1.280   8.7% |--|
+Other:                13.317    13.317  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          14.713 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.453     0.118   0.8% |
+ calculate_forces:     1.335     1.335   9.1% |---|
+Other:                13.150    13.150  90.1% |-----------------------------------|
+---------------------------------------------
+Total:                          14.603 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.392     0.111   0.8% |
+ calculate_forces:     1.281     1.281   8.8% |---|
+Other:                13.188    13.188  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          14.580 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.424     0.111   0.8% |
+ calculate_forces:     1.313     1.313   9.0% |---|
+Other:                13.133    13.133  90.2% |-----------------------------------|
+---------------------------------------------
+Total:                          14.557 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.533     0.117   0.8% |
+ calculate_forces:     1.417     1.417   9.7% |---|
+Other:                13.000    13.000  89.5% |-----------------------------------|
+---------------------------------------------
+Total:                          14.533 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.419     0.115   0.8% |
+ calculate_forces:     1.304     1.304   9.0% |---|
+Other:                13.090    13.090  90.2% |-----------------------------------|
+---------------------------------------------
+Total:                          14.510 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.388     0.111   0.8% |
+ calculate_forces:     1.277     1.277   8.8% |---|
+Other:                13.098    13.098  90.4% |-----------------------------------|
+---------------------------------------------
+Total:                          14.486 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.448     0.111   0.8% |
+ calculate_forces:     1.337     1.337   9.2% |---|
+Other:                13.014    13.014  90.0% |-----------------------------------|
+---------------------------------------------
+Total:                          14.462 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.446     0.114   0.8% |
+ calculate_forces:     1.331     1.331   9.2% |---|
+Other:                12.992    12.992  90.0% |-----------------------------------|
+---------------------------------------------
+Total:                          14.438 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.398     0.113   0.8% |
+ calculate_forces:     1.285     1.285   8.9% |---|
+Other:                13.016    13.016  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          14.414 100.0%
+
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:30 (2022-04-11T21:18:30 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe08468a280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:30 (2022-04-11T21:18:30 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fdffc6241f0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe064e19040>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe08468a280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fdffc6241f0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe064e19040>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe08468a280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fdffc6241f0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe064e19040>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1108.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:31 (2022-04-11T21:18:31 UTC)
+Architecture: x86_64
+PID: 199965
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fe08468a280>
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.4 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.8 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.4 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.4 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.3 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.3 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.4 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.4 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.3 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 1.4 s
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.445     0.110   0.7% |
+ calculate_energy:     1.335     1.335   8.8% |---|
+Other:                13.749    13.749  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          15.195 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.855     0.108   0.7% |
+ calculate_energy:     1.747     1.747  11.5% |----|
+Other:                13.278    13.278  87.7% |----------------------------------|
+---------------------------------------------
+Total:                          15.133 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.459     0.112   0.7% |
+ calculate_energy:     1.346     1.346   8.9% |---|
+Other:                13.651    13.651  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          15.110 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.456     0.110   0.7% |
+ calculate_energy:     1.345     1.345   8.9% |---|
+Other:                13.631    13.631  90.4% |-----------------------------------|
+---------------------------------------------
+Total:                          15.087 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.391     0.104   0.7% |
+ calculate_energy:     1.287     1.287   8.5% |--|
+Other:                13.672    13.672  90.8% |-----------------------------------|
+---------------------------------------------
+Total:                          15.063 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.424     0.106   0.7% |
+ calculate_energy:     1.318     1.318   8.8% |---|
+Other:                13.615    13.615  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          15.039 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.457     0.115   0.8% |
+ calculate_energy:     1.343     1.343   8.9% |---|
+Other:                13.558    13.558  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          15.015 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.438     0.113   0.8% |
+ calculate_energy:     1.325     1.325   8.8% |---|
+Other:                13.555    13.555  90.4% |-----------------------------------|
+---------------------------------------------
+Total:                          14.992 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.396     0.112   0.7% |
+ calculate_energy:     1.284     1.284   8.6% |--|
+Other:                13.573    13.573  90.7% |-----------------------------------|
+---------------------------------------------
+Total:                          14.969 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             1.456     0.108   0.7% |
+ calculate_energy:     1.349     1.349   9.0% |---|
+Other:                13.490    13.490  90.3% |-----------------------------------|
+---------------------------------------------
+Total:                          14.946 100.0%
+

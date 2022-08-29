@@ -1,0 +1,2850 @@
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae6e9fe280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fade694d5e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae4ee17b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae6e9fe280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fade694d5e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae4ee17b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae6e9fe280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fade694d5e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae4ee17b80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T14:43:46 (2022-04-11T18:43:46 UTC)
+Architecture: x86_64
+PID: 244739
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7fae6e9fe280>
+Calculation requested.
+Calculating forces...
+...forces calculated. 62.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 55.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 55.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 56.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 81.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 531.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 62.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 69.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 62.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 65.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 61.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 62.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.0 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 58.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 57.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.7 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.2 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 60.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 80.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 62.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 59.8 ms
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.506     1.216   4.8% |-|
+ calculate_forces:     1.290     1.290   5.0% |-|
+Other:                23.095    23.095  90.2% |-----------------------------------|
+---------------------------------------------
+Total:                          25.600 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.409     1.123   4.4% |-|
+ calculate_forces:     1.286     1.286   5.0% |-|
+Other:                23.102    23.102  90.6% |-----------------------------------|
+---------------------------------------------
+Total:                          25.511 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.396     1.120   4.4% |-|
+ calculate_forces:     1.276     1.276   5.0% |-|
+Other:                23.098    23.098  90.6% |-----------------------------------|
+---------------------------------------------
+Total:                          25.494 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.419     1.125   4.4% |-|
+ calculate_forces:     1.294     1.294   5.1% |-|
+Other:                23.057    23.057  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          25.476 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.394     1.117   4.4% |-|
+ calculate_forces:     1.277     1.277   5.0% |-|
+Other:                23.068    23.068  90.6% |-----------------------------------|
+---------------------------------------------
+Total:                          25.461 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.419     1.134   4.5% |-|
+ calculate_forces:     1.285     1.285   5.1% |-|
+Other:                23.028    23.028  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          25.446 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.887     1.586   6.2% |-|
+ calculate_forces:     1.301     1.301   5.1% |-|
+Other:                22.545    22.545  88.6% |----------------------------------|
+---------------------------------------------
+Total:                          25.432 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.487     1.180   4.6% |-|
+ calculate_forces:     1.306     1.306   5.1% |-|
+Other:                22.931    22.931  90.2% |-----------------------------------|
+---------------------------------------------
+Total:                          25.417 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.623     1.334   5.3% |-|
+ calculate_forces:     1.289     1.289   5.1% |-|
+Other:                22.779    22.779  89.7% |-----------------------------------|
+---------------------------------------------
+Total:                          25.403 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             2.413     1.129   4.4% |-|
+ calculate_forces:     1.285     1.285   5.1% |-|
+Other:                22.975    22.975  90.5% |-----------------------------------|
+---------------------------------------------
+Total:                          25.388 100.0%
+
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30a0fc6280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3018f155e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30813dfb80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30a0fc6280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3018f155e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30813dfb80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30a0fc6280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f3018f155e0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30813dfb80>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1634.oscar.ccv.brown.edu
+Date: 2022-04-11T17:15:11 (2022-04-11T21:15:11 UTC)
+Architecture: x86_64
+PID: 25842
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f30a0fc6280>
+Calculation requested.
+Calculating forces...
+...forces calculated. 3.0 s
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 67.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.4 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 67.1 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 69.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 66.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.8 ms
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             3.058     2.990  63.8% |-------------------------|
+ calculate_forces:     0.069     0.069   1.5% ||
+Other:                 1.625     1.625  34.7% |-------------|
+---------------------------------------------
+Total:                           4.683 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.134     0.072   1.6% ||
+ calculate_forces:     0.062     0.062   1.3% ||
+Other:                 4.443     4.443  97.1% |--------------------------------------|
+---------------------------------------------
+Total:                           4.577 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.127     0.065   1.4% ||
+ calculate_forces:     0.061     0.061   1.3% ||
+Other:                 4.430     4.430  97.2% |--------------------------------------|
+---------------------------------------------
+Total:                           4.557 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.134     0.072   1.6% ||
+ calculate_forces:     0.062     0.062   1.4% ||
+Other:                 4.402     4.402  97.0% |--------------------------------------|
+---------------------------------------------
+Total:                           4.536 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.133     0.071   1.6% ||
+ calculate_forces:     0.062     0.062   1.4% ||
+Other:                 4.385     4.385  97.1% |--------------------------------------|
+---------------------------------------------
+Total:                           4.518 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.132     0.071   1.6% ||
+ calculate_forces:     0.061     0.061   1.4% ||
+Other:                 4.365     4.365  97.1% |--------------------------------------|
+---------------------------------------------
+Total:                           4.497 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.133     0.071   1.6% ||
+ calculate_forces:     0.062     0.062   1.4% ||
+Other:                 4.343     4.343  97.0% |--------------------------------------|
+---------------------------------------------
+Total:                           4.477 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.133     0.070   1.6% ||
+ calculate_forces:     0.063     0.063   1.4% ||
+Other:                 4.322     4.322  97.0% |--------------------------------------|
+---------------------------------------------
+Total:                           4.455 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.124     0.064   1.4% ||
+ calculate_forces:     0.060     0.060   1.4% ||
+Other:                 4.309     4.309  97.2% |--------------------------------------|
+---------------------------------------------
+Total:                           4.432 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.132     0.070   1.6% ||
+ calculate_forces:     0.062     0.062   1.4% ||
+Other:                 4.279     4.279  97.0% |--------------------------------------|
+---------------------------------------------
+Total:                           4.411 100.0%
+
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f824fef0280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f81a486bee0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f820bcc1700>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f824fef0280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f81a486bee0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f820bcc1700>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f824fef0280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f81a486bee0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f820bcc1700>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1318.oscar.ccv.brown.edu
+Date: 2022-04-11T17:17:27 (2022-04-11T21:17:27 UTC)
+Architecture: x86_64
+PID: 184388
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7f824fef0280>
+Calculation requested.
+Calculating forces...
+...forces calculated. 74.5 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 65.9 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 67.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 68.6 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 89.3 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 67.8 ms
+Calculation requested.
+Calculating forces...
+...forces calculated. 65.7 ms
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.127     0.064   3.9% |-|
+ calculate_forces:     0.063     0.063   3.8% |-|
+Other:                 1.514     1.514  92.3% |------------------------------------|
+---------------------------------------------
+Total:                           1.641 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.113     0.054   3.5% ||
+ calculate_forces:     0.059     0.059   3.8% |-|
+Other:                 1.420     1.420  92.6% |------------------------------------|
+---------------------------------------------
+Total:                           1.533 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.128     0.067   4.4% |-|
+ calculate_forces:     0.061     0.061   4.0% |-|
+Other:                 1.386     1.386  91.6% |------------------------------------|
+---------------------------------------------
+Total:                           1.513 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.125     0.064   4.3% |-|
+ calculate_forces:     0.061     0.061   4.1% |-|
+Other:                 1.368     1.368  91.6% |------------------------------------|
+---------------------------------------------
+Total:                           1.494 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.121     0.059   4.0% |-|
+ calculate_forces:     0.062     0.062   4.2% |-|
+Other:                 1.352     1.352  91.8% |------------------------------------|
+---------------------------------------------
+Total:                           1.473 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.180     0.119   8.2% |--|
+ calculate_forces:     0.061     0.061   4.2% |-|
+Other:                 1.272     1.272  87.6% |----------------------------------|
+---------------------------------------------
+Total:                           1.452 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.125     0.063   4.4% |-|
+ calculate_forces:     0.062     0.062   4.3% |-|
+Other:                 1.309     1.309  91.3% |------------------------------------|
+---------------------------------------------
+Total:                           1.433 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.145     0.084   5.9% |-|
+ calculate_forces:     0.061     0.061   4.3% |-|
+Other:                 1.269     1.269  89.7% |-----------------------------------|
+---------------------------------------------
+Total:                           1.415 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.120     0.060   4.3% |-|
+ calculate_forces:     0.061     0.061   4.3% |-|
+Other:                 1.278     1.278  91.4% |------------------------------------|
+---------------------------------------------
+Total:                           1.398 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.112     0.053   3.8% |-|
+ calculate_forces:     0.059     0.059   4.3% |-|
+Other:                 1.268     1.268  91.9% |------------------------------------|
+---------------------------------------------
+Total:                           1.380 100.0%
+
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff339ffb280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff2b1f951f0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff31a789040>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff339ffb280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff2b1f951f0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff31a789040>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff339ffb280>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff2b1f951f0>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff31a789040>
+
+   oo      o       o   oooooo
+  o  o     oo     oo   o     o
+ o    o    o o   o o   o     o
+o      o   o  o o  o   o     o
+oooooooo   o   o   o   oooooo
+o      o   o       o   o
+o      o   o       o   o
+o      o   o       o   o
+
+Amp: Atomistic Machine-learning Package
+Developed by Andrew Peterson, Alireza Khorshidi, and others,
+Brown University.
+PI Website: http://brown.edu/go/catalyst
+Official repository: http://bitbucket.org/andrewpeterson/amp
+Official documentation: http://amp.readthedocs.io/
+Citation:
+  Alireza Khorshidi & Andrew A. Peterson,
+  Computer Physics Communications 207: 310-324 (2016).
+  http://doi.org/10.1016/j.cpc.2016.05.010
+======================================================================
+User: czeng3
+Hostname: node1319.oscar.ccv.brown.edu
+Date: 2022-04-11T17:18:37 (2022-04-11T21:18:37 UTC)
+Architecture: x86_64
+PID: 166021
+Amp version: 0.7.0-beta
+Amp directory: /users/czeng3/usr/installs/amp/testamp/testamp
+ Last commit: 58a5795f377a504df78c75e4f9736903e23f9446
+ Last commit date: 2022-02-28 21:14:51 -0500
+Python: v3.9.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/bin/python3
+ASE v3.21.0b1: /users/czeng3/usr/installs/ase/ase
+NumPy v1.20.1: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/numpy
+SciPy v1.6.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/scipy
+ZMQ/PyZMQ v4.3.3/v20.0.0: /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/zmq
+pxssh: Not available from pxssh.
+pxssh (via pexpect v4.8.0): /gpfs/home/czeng3/usr/installs/gpaw/gpaw-venv/lib/python3.9/site-packages/pexpect/pxssh.py
+======================================================================
+Parsing SLURM node and task allocation from environment variables
+tasks per node: 1
+Parallel configuration determined from environment for SLURM:
+  localhost: 1
+Loaded file: <_io.StringIO object at 0x7ff339ffb280>
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 4.2 s
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 80.2 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 79.3 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 79.8 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 82.7 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 81.2 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 78.8 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 80.8 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 79.8 ms
+Calculation requested.
+Calculate potential energy...
+...potential energy calculated. 80.5 ms
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             4.300     4.123  65.8% |-------------------------|
+ calculate_energy:     0.177     0.177   2.8% ||
+Other:                 1.969     1.969  31.4% |------------|
+---------------------------------------------
+Total:                           6.269 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.159     0.086   1.4% ||
+ calculate_energy:     0.073     0.073   1.2% |
+Other:                 5.965     5.965  97.4% |--------------------------------------|
+---------------------------------------------
+Total:                           6.124 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.157     0.084   1.4% ||
+ calculate_energy:     0.073     0.073   1.2% |
+Other:                 5.941     5.941  97.4% |--------------------------------------|
+---------------------------------------------
+Total:                           6.098 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.159     0.086   1.4% ||
+ calculate_energy:     0.073     0.073   1.2% |
+Other:                 5.913     5.913  97.4% |--------------------------------------|
+---------------------------------------------
+Total:                           6.072 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.164     0.089   1.5% ||
+ calculate_energy:     0.076     0.076   1.3% ||
+Other:                 5.881     5.881  97.3% |--------------------------------------|
+---------------------------------------------
+Total:                           6.045 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.163     0.089   1.5% ||
+ calculate_energy:     0.074     0.074   1.2% |
+Other:                 5.855     5.855  97.3% |--------------------------------------|
+---------------------------------------------
+Total:                           6.019 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.158     0.086   1.4% ||
+ calculate_energy:     0.072     0.072   1.2% |
+Other:                 5.833     5.833  97.4% |--------------------------------------|
+---------------------------------------------
+Total:                           5.991 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.160     0.086   1.4% ||
+ calculate_energy:     0.074     0.074   1.2% |
+Other:                 5.805     5.805  97.3% |--------------------------------------|
+---------------------------------------------
+Total:                           5.965 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.159     0.086   1.5% ||
+ calculate_energy:     0.073     0.073   1.2% |
+Other:                 5.780     5.780  97.3% |--------------------------------------|
+---------------------------------------------
+Total:                           5.939 100.0%
+
+Timing:                incl.     excl.
+---------------------------------------------
+calculate:             0.159     0.085   1.4% ||
+ calculate_energy:     0.073     0.073   1.2% |
+Other:                 5.754     5.754  97.3% |--------------------------------------|
+---------------------------------------------
+Total:                           5.913 100.0%
+

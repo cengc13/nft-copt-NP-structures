@@ -1,0 +1,4 @@
+
+- Gs.json is the JSON file comprising the symmetry functions to encode the feature vectors for Co and Pt elements.
+
+- trainingimages.traj contains the structures (18 bulk cells + 2064 atomic chunks) to train both force and energy ensemble models.

@@ -1,0 +1,10 @@
+ASE-db files generated with genetic-algorithm runs for three structures.
+
+- fcc111.db for a 80-atom Co-Pt fcc(111) surface
+
+- fcc100.db for a 80-atom Co-Pt fcc(100) surface
+
+- ptco-Ih-147.db for a 147-atom Co-Pt icosahedron
+
+Also included are the configurations and trajectories of two types of Pt80Co67; one with Co occupying the corners of the surface and the other with the terrace centers of the surface.
+Both structuresre are relaxed with the force ensemble model. The GPAW evaluated configurations with GPAW forces and energies are included.

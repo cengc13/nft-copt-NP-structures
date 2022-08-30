@@ -1,0 +1,4 @@
+Five clusters used to validate the consistency of force predictions between GPAW and SPARC.
+
+The GPAW and SPARC predictions for those five clusters can be extracted from the ASE trajectory files.
+Summary of the comparison is given in the figure 'atomic_forces_parity.pdf'.

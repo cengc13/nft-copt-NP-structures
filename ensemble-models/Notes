@@ -1,0 +1,4 @@
+
+- forces.ensemble: force model trained by including only forces on central atoms of atomic chunks, and both energy and forces for bulk cells.
+
+- energy.ensemble: energy ensemble model trained by fitting total energies of both bulk cells and atomic chunks.

@@ -1,0 +1,8 @@
+Three structures used to validate that the putative global minima found by Monte Carlo simulations (trajectories with 'MC' in the filename) is more stbale than a fully L1_0 ordered structure.
+Forces and energies of the structures are already included in the ASE trajectory files. Files starting with 'GPAW' are calculated with a DFT-calculator, GPAW. Files starting 'ML' are machine learning model calculated. Files starting with 'sparc' are calculated using SPARC.
+
+- 201-atom Pt96Co105 truncated octahedron. DFT was carried out with GPAW.
+
+- 586-atom Pt300Co286 truncated octahedron. DFT was carried out with SPARC.
+
+- 6266-atom Pt3164Co3102 truncated octahedron. No DFT validation is available.

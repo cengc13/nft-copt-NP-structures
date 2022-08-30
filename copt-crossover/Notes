@@ -1,0 +1,6 @@
+Co-Pt nanoparticle structure motifs to study the crossover between three shapes, namely  core-shell CoPt/1Pt cubocahedron with a fully L1_0 ordered core (in the folder './COh'), core-shell CoPt/1Pt icosahedron with a depleted Pt second shell ('./IOh'), and core-shell CoPt/1Pt truncated octahedron with a depleted Pt second shell ('./TOh').
+
+For each shape, the trajectory files in the depth-2 folder are symmetric nanoparticles before relaxation, created using a DFT-calculated Pt lattice constant of 3.936 angstrom.
+The trajectory files in the corresponding depth-3 folder and starting with 'opt_' are the relaxation trajectories using the force model.
+The 'energy' text file saves the energy of the relaxed structure using the energy model.
+The 'delta.txt' and 'avg_detal.txt' saves the respective maximum and average atomic uncertainties.

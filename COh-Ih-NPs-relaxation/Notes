@@ -1,0 +1,9 @@
+The initial 'rattled' structure is trajectory files without a predix 'opt_'. 
+In terms of filenames, it start with the type of nanoparticle, followed by the stoichiometry of the nanoparticle.
+
+The relaxation trajectories are trajectory files with a prefix 'opt'.
+
+The file starting with 'delta' saves the structure uncertainty of the relaxed structure (maximum atomic force uncertainty), whereas the file starting with 'avg_delta' saves the average atomic force uncertainty.
+
+The png files refer to the configuration of the Ih and COh nanoparticles.
+

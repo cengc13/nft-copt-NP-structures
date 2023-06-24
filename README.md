@@ -1,4 +1,4 @@
-# Optimizing Co-Pt nanoparticles via neural-network-enhanced genetic algorithms and Monte Carlo simulations
+# The phase stability of large-size nanoparticle alloy catalysts at ab initio quality using a nearsighted force-training approach
 
 Cheng Zeng, Sushree Jagriti Sahoo, Andrew J. Medford, Andrew A. Peterson
 

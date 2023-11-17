@@ -1,22 +1,46 @@
-# The phase stability of large-size nanoparticle alloy catalysts at ab initio quality using a nearsighted force-training approach
+# Phase stability of large-size nanoparticle alloy catalysts at ab initio quality using a nearsighted force-training approach
 
 Cheng Zeng, Sushree Jagriti Sahoo, Andrew J. Medford, Andrew A. Peterson
 
-A challenge of understanding the thermodynamic stability of Co-Pt nanoparticles is to find an appropriate inter-atomic potential.
-Using a nearsighted force-training approach, we build a robust ensemble neural network (NN) potential for Co-Pt nanoparticles.
-The resulting NN ensemble model shows good accuracy and transferability in describing the relative energetics for Co-Pt nanoparticles with various shapes, sizes and Co compositions.
-We employ the NN potential to construct the energy convex hulls for the fcc(100), fcc(111) and a 147-atom icosahedron.
-It is found that the fcc(100) surface is more likely to form a L1_0 ordered structure than the fcc(111) surface.
-The energy convex hull of the icosahedron is in quantitative agreement with the one constructed by brute-force first-principles calculations.
-We then apply the NN model to investigate the crossover among  structure motifs of Pt and Co-Pt nanoparticles.
-Based on an empirical model, Pt truncated octahedron is the most stable shape due to its low surface and bulk energy, and a crossover between cuboctahedron and icosahedron exists at a size of 538 atoms because of the interplay of surface and bulk contribution.
-A revised model is introduced to describe the role of Co alloying in the crossover for Co-Pt nanoparticles.
-A crossover between icosahedron and truncated octahedron shows up, which is associated with the larger downshift of surface energy in Co-Pt icosahedron.
-The larger downshift can be attributed to the strain release on the icosahedron surface due to Co alloying.
-Moreover, using Monte-Carlo simulations, we attempt to find the most stable atomic arrangement for a truncated octahedron with equal Pt and Co compositions, and also we study its order-disorder phase transition.
-It is demonstrated that the most stable atom arrangement is not fully L1_0 ordered, but ordered in a distinct way.
-From the outermost shell to the center of a large Co-Pt truncated octahedron, the atomic arrangement follows a pattern: Pt -> Co -> L1_2(Pt_3Co) -> L1_2(PtCo_3) -> L1_0(PtCo) -> ... -> L1_0(PtCo).
-Lastly, the order-disorder phase transition for a Co-Pt nanoparticle  exhibits a lower transition temperature and a smoother transition, compared to the bulk Co-Pt alloy.
+Co–Pt
+alloyed catalyst particles are integral to commercial fuel cells,
+and alloyed nanoparticles are important in many applications. Such
+systems are prohibitive to fully characterize with electronic structure
+calculations due to their relatively large sizes of hundreds to thousands
+of atoms per simulation, the huge configurational space, and the added
+expense of spin-polarized calculations. Machine-learned potentials
+offer a scalable solution; however, such potentials are reliable only
+if representative training data can be employed, which typically also
+requires large electronic structure calculations. Here, we use the
+nearsighted-force training approach that allows us to make high-fidelity
+machine-learned predictions on large nanoparticles with >5000 atoms
+using only small and systematically generated training structures
+ranging from 38 to 168 atoms. The resulting ensemble model shows good
+accuracy and transferability in describing the relative energetics
+for Co–Pt nanoparticles with various shapes, sizes, and Co
+compositions. It is found that the fcc(100) surface is more likely
+to form an L10 ordered structure than the fcc(111) surface.
+The energy convex hull of a 147-atomthe icosahedron shows that the most stable
+particles have Pt-rich skins and Co-rich underlayers and is in quantitative
+agreement with one constructed by brute-force first-principles calculations.
+Although the truncated octahedron is the most stable shape across
+all studied sizes of Pt nanoparticles, a crossover to the icosahedron exists
+ for CoPt nanoparticle alloys due to a large downshift of surface energy for CoPt nanoparticle alloys.
+The downshift can be attributed to strain release on the icosahedral
+surface due to Co alloying. We introduced a simple empirical model
+to describe the role of Co alloying in the crossover for Co–Pt
+nanoparticles. With Metropolis Monte Carlo simulations, we additionally
+searched for the most stable atomic arrangement for a truncated octahedron
+with equal Pt and Co compositions, and also we studied its order–disorder
+phase transition. We validated the most stable configurations with
+a new highly scalable density functional theory code called SPARC.
+From the outermost shell to the center of a large Co–Pt truncated
+octahedron, the atomic arrangement follows a pattern: Pt →
+Co → L12(Pt3Co) → L12(PtCo3) → L10(PtCo) → ···
+→ L10(PtCo). Lastly, the order–disorder phase
+transition for a Co–Pt nanoparticle exhibits a lower transition
+temperature and a smoother transition compared to the bulk Co–Pt
+alloy.
 
 <!-- arxiv preprint:  -->
 

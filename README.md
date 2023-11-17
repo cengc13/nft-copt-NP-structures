@@ -63,3 +63,5 @@ The supporting data set consists of
 - MC-vs-L10: Monte Carlo simulated putative global minima versus the fully L1_0 ordered structure: DFT  energetic comparisons.
 
 - genetic-algorithm-db-files: ASE-db files for the genetic algorithm runs on a 80-atom fcc(100) Co-Pt surface, a 80-atom fcc(111) Co-Pt surface, and a 147-atom icosahedron Co-Pt.
+
+- scripts-and-saved-files: python scripts to reproduce some results of this work. 

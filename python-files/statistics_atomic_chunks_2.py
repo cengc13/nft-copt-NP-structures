@@ -5,7 +5,7 @@ import matplotlib
 fonts = {'size': 16}
 matplotlib.rc('font', **fonts)
 from ase.io import read
-from testamp.stats.bootstrap import BootStrap
+from amp.stats.bootstrap import BootStrap
 
 pre_path = '../symmetry-functions-and-trainingimages'
 images = read(f'{pre_path}/trainingimages.traj', index=':')

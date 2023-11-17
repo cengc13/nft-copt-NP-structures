@@ -15,7 +15,7 @@ gs = gridspec.GridSpec(2, 1)
 fig = plt.figure(figsize=(8, 8))
 # plt.margins(0.5)
 plt.subplots_adjust(hspace=0.45)
-prepath = '../motif_relaxation'
+prepath = '../COh-Ih-NPs-relaxation'
 trajs = ['COh_Pt1415.traj', 'COh_Pt192Co68.traj',
 'COh_Pt736Co679_disordered.traj', 'COh_Pt736Co679_ordered.traj',
 'COh_Pt975Co440_disordered.traj',

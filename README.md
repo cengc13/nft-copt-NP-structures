@@ -2,8 +2,9 @@
 
 Cheng Zeng, Sushree Jagriti Sahoo, Andrew J. Medford, Andrew A. Peterson
 
-Co–Pt
-alloyed catalyst particles are integral to commercial fuel cells,
+Link: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c04639
+
+Co–Pt alloyed catalyst particles are integral to commercial fuel cells,
 and alloyed nanoparticles are important in many applications. Such
 systems are prohibitive to fully characterize with electronic structure
 calculations due to their relatively large sizes of hundreds to thousands
